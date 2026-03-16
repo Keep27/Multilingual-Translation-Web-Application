@@ -1,3 +1,10 @@
+# Student Information
+
+| Name          | Student ID |
+|---------------|------------|
+| Ndame Sepete  | 2410559    |
+
+
 # Multilingual Translation Web Application
 
 A web-based translation app built with HTML, CSS and JavaScript that translates text between languages using the MyMemory API.
